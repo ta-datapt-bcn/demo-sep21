@@ -1,6 +1,7 @@
 # demo-sep21
 Repositorio de prubea
 
+2o cambio Natália, hecho por GIT BASH.
 
-Pruebas de repo para la clase de data de septiembre 21
 Natália González
+
